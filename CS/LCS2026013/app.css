@@ -1,0 +1,90 @@
+h1{
+    color : blue;
+}
+
+h2{
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.head{
+    border-bottom: 2px solid #808080;
+    
+}
+
+.introduction{
+    border-bottom: 2px  rgb(243, 22, 22);
+}
+
+a{
+    font-size: 20px;
+    color: #640707;
+    font-weight: 700px;
+    text-decoration: none;
+    border-color: blue;
+    box-sizing: border-box;
+}
+
+.heading{
+ background-color:#dff5ec ;
+color: #1f8f6b ;
+
+}
+
+.contacts{
+    width: 400px;
+    text-align: center;
+    color: rgb(24, 206, 206);
+    background-color: bisque;
+    height: 200px;
+    padding: 15px 10px 10px;
+    border-radius: 25px;
+    border-color: bisque;
+   
+   margin-top: 100px;
+}
+.links{
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 500px;
+}
+
+.table{
+       border : 1px solid rgb(30, 138, 105)
+       
+}
+
+.dunno{
+    background-color: cornsilk;
+    width: 1500px;
+    border-color: cornsilk;
+    text-align: center;
+    border-radius:55px ;
+    margin-left: 200px;
+}
+
+.helps{
+    margin-top: -350px;
+}
+
+.images{
+    margin-left: 900px;
+    border: 2px solid rgb(122, 216, 14);
+}
+
+.last{
+    color: rgb(83, 76, 185);
+     font-size: 30px;
+     padding-top: 10px;
+}
+
+ .last-para{
+    padding-left: 100px;
+   
+    padding-bottom: 50px;
+} 
+
+a:hover{
+    color: rgb(223, 111, 7);
+    text-decoration: none;
+}
